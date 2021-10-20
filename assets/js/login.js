@@ -8,7 +8,7 @@ $(function () {
         $('.login-box').show()
         $('.reg-box').hide()
     })
-    // 从layui中获取form对象 因为已经导入了layui.all.js,所以可以直接使用lay对象
+    // 从layui中获取form对象 因为已经导入了layui.all.js,所以可以直接使用layui对象
     var form = layui.form
     //同上
     var layer = layui.layer
